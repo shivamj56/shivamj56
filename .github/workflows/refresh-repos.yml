@@ -1,0 +1,165 @@
+# =================================================================
+#  Auto-refresh the REPOSITORIES section of README.md
+#  Drop this into:  .github/workflows/refresh-repos.yml
+#  inside your profile repo (github.com/shivamj56/shivamj56).
+#
+#  Runs every 6 hours (+ manual trigger + push to main).
+#  Rewrites the block between <!-- REPOS:START --> and <!-- REPOS:END -->
+#  using custom shields.io-based cards (NOT github-readme-stats pin
+#  cards, which were rendering as broken images on new accounts).
+# =================================================================
+
+name: Refresh Repositories Section
+
+on:
+  # Run every 6 hours, offset 17 min past the hour to avoid GitHub's
+  # on-the-hour cron-queue delays.
+  schedule:
+    - cron: "17 */6 * * *"
+  # Manual button in the Actions tab — use this if you just created a
+  # new repo and want it to appear immediately.
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-repos.yml"
+      - ".github/repos.config.json"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Rebuild repos block
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat > update.mjs <<'JS'
+          import fs from "node:fs";
+
+          const user  = process.env.GH_USER;
+          const token = process.env.GITHUB_TOKEN;
+
+          const headers = {
+            "User-Agent": "readme-refresh-action",
+            "Accept": "application/vnd.github+json",
+            ...(token && { "Authorization": `Bearer ${token}` }),
+          };
+
+          // -------- fetch ALL public, non-fork, non-archived repos
+          const all = [];
+          for (let page = 1; page < 20; page++) {
+            const url  = `https://api.github.com/users/${user}/repos?per_page=100&sort=updated&page=${page}`;
+            const res  = await fetch(url, { headers });
+            if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+            const list = await res.json();
+            if (list.length === 0) break;
+            all.push(...list);
+            if (list.length < 100) break;
+          }
+
+          const repos = all
+            .filter(r => !r.fork && !r.archived && !r.private)
+            .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+
+          // -------- optional override config at .github/repos.config.json
+          let overrides = {};
+          try {
+            overrides = JSON.parse(fs.readFileSync(".github/repos.config.json", "utf8"));
+          } catch { /* no config file = fall back to GitHub descriptions */ }
+
+          // -------- neon palette, rotated across cards for the Live Demo button
+          const palette = ["ADC6FF", "E9B3FF", "74D1FF", "ADC6FF"];
+
+          const esc = (s) => (s || "")
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;");
+
+          // -------- card = socialify image header + custom desc + Live/Code buttons
+          const makeCard = (r, color) => {
+            const desc = esc(overrides[r.name]?.description) || esc(r.description) || "No description set.";
+
+            const socialify = `https://socialify.git.ci/${user}/${encodeURIComponent(r.name)}/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro`;
+
+            const liveHref = (r.homepage && r.homepage.trim()) ? r.homepage : r.html_url;
+            const liveDemo = `<a href="${liveHref}"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-${color}?style=for-the-badge&labelColor=${color}&color=${color}&logoColor=10131B" alt="live"/></a>
+          &nbsp;
+          `;
+
+            return `<td width="50%" valign="top">
+          <a href="${r.html_url}"><img src="${socialify}" width="100%" alt="${r.name}"/></a>
+          <p align="center"><sub>${desc}</sub></p>
+          <p align="center">
+          ${liveDemo}<a href="${r.html_url}"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+          </p>
+          </td>`;
+          };
+
+          // -------- build a 2-column grid
+          let rows = "";
+          for (let i = 0; i < repos.length; i += 2) {
+            rows += "<tr>\n\n";
+            rows += makeCard(repos[i], palette[i % palette.length]);
+            rows += "\n\n";
+            if (repos[i + 1]) {
+              rows += makeCard(repos[i + 1], palette[(i + 1) % palette.length]);
+              rows += "\n\n";
+            }
+            rows += "</tr>\n";
+          }
+
+          const block = `<!-- REPOS:START -->
+          <!-- Auto-generated by .github/workflows/refresh-repos.yml — every 6 hours. -->
+          <!-- DO NOT edit by hand; edits between these markers will be overwritten. -->
+          <table>
+          ${rows}</table>
+          <!-- REPOS:END -->`;
+
+          // -------- always-fresh timestamp doubles as the self-keepalive.
+          // Updating this on every run guarantees at least one commit per
+          // scheduled trigger, which prevents GitHub from disabling the
+          // cron after 60 days of repo inactivity.
+          const now = new Date();
+          const stamp = now.toISOString().replace(/\.\d+Z$/, "Z");
+          const syncBlock = `<!-- LAST-SYNC:START -->
+          <div align="center"><sub>⟳ Auto-synced · last refresh <code>${stamp}</code> · ${repos.length} repos tracked · next refresh in ≤ 6 h</sub></div>
+          <!-- LAST-SYNC:END -->`;
+
+          const readme = fs.readFileSync("README.md", "utf8");
+          let updated = readme.replace(
+            /<!-- REPOS:START -->[\s\S]*?<!-- REPOS:END -->/,
+            block,
+          );
+          updated = updated.replace(
+            /<!-- LAST-SYNC:START -->[\s\S]*?<!-- LAST-SYNC:END -->/,
+            syncBlock,
+          );
+
+          fs.writeFileSync("README.md", updated);
+          console.log(`Refreshed with ${repos.length} repositories at ${stamp}.`);
+          JS
+          node update.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "chore(readme): refresh repositories section"
+            git push
+          fi
