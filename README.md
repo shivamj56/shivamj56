@@ -275,22 +275,22 @@
 <tr>
 
 <td width="50%" valign="top">
-<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://socialify.git.ci/shivamj56/Omni-Matrix-Option-Chain/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Omni-Matrix-Option-Chain"/></a>
-<p align="center"><sub>Real-time options-chain analytics platform built in TypeScript — live on Replit.</sub></p>
+<a href="https://github.com/shivamj56/shivamj56"><img src="https://socialify.git.ci/shivamj56/shivamj56/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="shivamj56"/></a>
+<p align="center"><sub>No description set.</sub></p>
 <p align="center">
-<a href="https://replit.com/@heylooshivm011/Neon-Option-Chain"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
+<a href="https://github.com/shivamj56/shivamj56"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
-<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+<a href="https://github.com/shivamj56/shivamj56"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
 </td>
 
 <td width="50%" valign="top">
-<a href="https://github.com/shivamj56/OmniMatrix1.1"><img src="https://socialify.git.ci/shivamj56/OmniMatrix1.1/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="OmniMatrix1.1"/></a>
-<p align="center"><sub>Next-gen iteration of the OmniMatrix options-analytics suite — deployed to Vercel.</sub></p>
+<a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
+<p align="center"><sub>My Portfolio</sub></p>
 <p align="center">
-<a href="https://omni-matrix1-1.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-E9B3FF?style=for-the-badge&labelColor=E9B3FF&color=E9B3FF&logoColor=10131B" alt="live"/></a>
+<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-E9B3FF?style=for-the-badge&labelColor=E9B3FF&color=E9B3FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
-<a href="https://github.com/shivamj56/OmniMatrix1.1"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
 </td>
 
@@ -298,22 +298,12 @@
 <tr>
 
 <td width="50%" valign="top">
-<a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
-<p align="center"><sub>Premium glassmorphism portfolio site — the HTML source that inspired this README.</sub></p>
+<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://socialify.git.ci/shivamj56/Omni-Matrix-Option-Chain/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Omni-Matrix-Option-Chain"/></a>
+<p align="center"><sub>Repository for https://replit.com/@heylooshivm011/Omni-Matrix-Option-Chain</sub></p>
 <p align="center">
-<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-74D1FF?style=for-the-badge&labelColor=74D1FF&color=74D1FF&logoColor=10131B" alt="live"/></a>
+<a href="https://replit.com/@heylooshivm011/Neon-Option-Chain"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-74D1FF?style=for-the-badge&labelColor=74D1FF&color=74D1FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
-<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
-</p>
-</td>
-
-<td width="50%" valign="top">
-<a href="https://github.com/shivamj56/shivamj56"><img src="https://socialify.git.ci/shivamj56/shivamj56/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="shivamj56"/></a>
-<p align="center"><sub>The repo you're reading — meta-architecture of the profile itself, auto-refreshing every 6 hours.</sub></p>
-<p align="center">
-<a href="https://github.com/shivamj56"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
-&nbsp;
-<a href="https://github.com/shivamj56/shivamj56"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
 </td>
 
