@@ -1,10 +1,9 @@
 <!-- ============================================================ -->
 <!--  SHIVAM JHA · @shivamj56 · DIGITAL ARCHITECT // OS           -->
 <!--                                                              -->
-<!--  This README is the entry-point of github.com/shivamj56.     -->
-<!--  The "REPOSITORIES" section auto-refreshes every 6 hours     -->
-<!--  via .github/workflows/refresh-repos.yml — see the YAML      -->
-<!--  file shipped alongside this README.                         -->
+<!--  Entry README for github.com/shivamj56/shivamj56             -->
+<!--  Repos block auto-refreshes via                              -->
+<!--  .github/workflows/refresh-repos.yml (every 6 hours).        -->
 <!-- ============================================================ -->
 
 <a name="top"></a>
@@ -21,37 +20,36 @@
 <br/><br/>
 
 <!-- ── TOP NAV (clickable anchor tabs) ── -->
-<a href="#-system"><img src="https://img.shields.io/badge/-%5B%20SYSTEM%20%5D-ADC6FF?style=for-the-badge&labelColor=10131B" alt="SYSTEM"/></a>
-<a href="#-tech_stack"><img src="https://img.shields.io/badge/-%5B%20STACK%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="STACK"/></a>
-<a href="#-services"><img src="https://img.shields.io/badge/-%5B%20SERVICES%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="SERVICES"/></a>
-<a href="#-repositories"><img src="https://img.shields.io/badge/-%5B%20PROJECTS%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="PROJECTS"/></a>
-<a href="#-certifications"><img src="https://img.shields.io/badge/-%5B%20CERTS%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="CERTS"/></a>
-<a href="#-establish_connection"><img src="https://img.shields.io/badge/-%5B%20CONTACT%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="CONTACT"/></a>
+<a href="#system"><img src="https://img.shields.io/badge/-%5B%20SYSTEM%20%5D-ADC6FF?style=for-the-badge&labelColor=10131B" alt="SYSTEM"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/-%5B%20STACK%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="STACK"/></a>
+<a href="#services"><img src="https://img.shields.io/badge/-%5B%20SERVICES%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="SERVICES"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/-%5B%20PROJECTS%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="PROJECTS"/></a>
+<a href="#certs"><img src="https://img.shields.io/badge/-%5B%20CERTS%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="CERTS"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/-%5B%20CONTACT%20%5D-10131B?style=for-the-badge&labelColor=10131B" alt="CONTACT"/></a>
 
 <br/><br/>
 
 <table>
 <tr>
-<td valign="middle" width="180" align="center">
+<td valign="middle" width="200" align="center">
   <a href="https://github.com/shivamj56">
-    <img src="https://avatars.githubusercontent.com/u/95514609?v=4" width="140" style="border-radius:50%;" alt="Shivam Jha avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/95514609?v=4" width="160" alt="Shivam Jha avatar"/>
   </a>
   <br/>
   <sub><b>@shivamj56</b></sub>
 </td>
 <td valign="middle">
 
-<a href="https://github.com/shivamj56?tab=repositories"><img src="https://img.shields.io/badge/%5B%20PORTFOLIO%20%5D-10131B?style=for-the-badge&logo=files&logoColor=ADC6FF&labelColor=10131B" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://github.com/shivamj56?tab=followers"><img src="https://img.shields.io/badge/%5B%20FOLLOW%20%5D-10131B?style=for-the-badge&logo=github&logoColor=E9B3FF&labelColor=10131B" alt="Follow"/></a>
-&nbsp;
 <a href="#-establish_connection"><img src="https://img.shields.io/badge/%5B%20HIRE%20ME%20%5D-002E69?style=for-the-badge&logo=rocket&logoColor=ADC6FF&labelColor=ADC6FF" alt="Hire me"/></a>
+<a href="#-repositories"><img src="https://img.shields.io/badge/%5B%20PORTFOLIO%20%5D-10131B?style=for-the-badge&logo=files&logoColor=ADC6FF&labelColor=10131B" alt="Portfolio"/></a>
+<a href="https://github.com/shivamj56"><img src="https://img.shields.io/badge/%5B%20FOLLOW%20%5D-10131B?style=for-the-badge&logo=github&logoColor=E9B3FF&labelColor=10131B" alt="Follow"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shivamj56&label=VISITORS&color=adc6ff&style=for-the-badge" alt="visitors"/>
 <img src="https://img.shields.io/github/followers/shivamj56?label=FOLLOWERS&style=for-the-badge&color=E9B3FF&labelColor=10131B&logo=github&logoColor=E9B3FF" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-ACTING%20AS%20AI%20AGENT-74D1FF?style=for-the-badge&labelColor=10131B" alt="status"/>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-%E2%9A%A1%20ACTING%20AS%20AI%20AGENT-74D1FF?style=for-the-badge&labelColor=10131B" alt="status"/>
 <img src="https://img.shields.io/badge/SINCE-DEC%202021-ADC6FF?style=for-the-badge&labelColor=10131B" alt="since"/>
 
 </td>
@@ -62,7 +60,13 @@
 
 <br/>
 
+<!-- gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
+
+<br/>
+
 <!-- ─────────────────────────── ABOUT ────────────────────────── -->
+<a name="system"></a>
 
 ## ◢&nbsp; SYSTEM
 
@@ -97,9 +101,9 @@
 <summary><b>▸ Currently building</b></summary>
 <br/>
 
-- ⚡ **OmniMatrix** — a TypeScript real-time options-chain analytics engine, iterating from v1 (Replit) to v1.1 (Vercel) toward a full SaaS launch.
-- 🤖 **AI agent tooling** — Claude / GPT-driven multi-agent workflows for trading, content, and dev productivity.
-- 🎨 **The portfolio you're standing in** — premium glassmorphism, fluid motion, dark-by-default UX.
+- ⚡ **OmniMatrix** — TypeScript real-time options-chain analytics, iterating from v1 (Replit) → v1.1 (Vercel) → full SaaS.
+- 🤖 **AI agent tooling** — Claude / GPT multi-agent workflows for trading, content, and dev productivity.
+- 🎨 **This profile system** — premium glassmorphism, fluid motion, dark-by-default UX.
 
 </details>
 
@@ -116,7 +120,12 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
+
+<br/>
+
 <!-- ──────────────────────── TECH STACK ──────────────────────── -->
+<a name="stack"></a>
 
 ## ⌬&nbsp; TECH_STACK
 
@@ -187,11 +196,14 @@
 </tr>
 </table>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
 
 <br/>
 
 <!-- ───────────────────────── SERVICES ───────────────────────── -->
+<a name="services"></a>
 
 ## ⚙&nbsp; SERVICES
 
@@ -239,67 +251,79 @@
 
 </details>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
 
 <br/>
 
 <!-- ──────────────────────── REPOSITORIES ────────────────────── -->
+<a name="projects"></a>
 
-## 📁&nbsp; REPOSITORIES
+## 📂&nbsp; REPOSITORIES
 
-```bash
-$ gh repo list shivamj56 --visibility public
-$ ls ./featured/
-```
+<div align="center">
+<sub><code>$ git remote -v &nbsp;·&nbsp; origin → github.com/shivamj56</code></sub>
+</div>
+
+<br/>
 
 <!-- REPOS:START -->
 <!-- Auto-generated by .github/workflows/refresh-repos.yml — every 6 hours. -->
 <!-- DO NOT edit by hand; edits between these markers will be overwritten. -->
 <table>
 <tr>
+
 <td width="50%" valign="top">
-  <a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamj56&repo=Omni-Matrix-Option-Chain&theme=tokyonight&bg_color=10131B&title_color=ADC6FF&icon_color=E9B3FF&text_color=C1C6D7&border_color=414755" alt="Omni-Matrix-Option-Chain"/>
-  </a>
-  <p align="center">
-    <sub>Real-time options-chain analytics platform in TypeScript — live on Replit.</sub><br/>
-    <a href="https://replit.com/@heylooshivm011/Neon-Option-Chain"><img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20DEMO-F26207?style=flat-square&logo=replit&logoColor=white&labelColor=10131B" alt="live"/></a>
-  </p>
+<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://socialify.git.ci/shivamj56/Omni-Matrix-Option-Chain/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Omni-Matrix-Option-Chain"/></a>
+<p align="center"><sub>Real-time options-chain analytics platform built in TypeScript — live on Replit.</sub></p>
+<p align="center">
+<a href="https://replit.com/@heylooshivm011/Neon-Option-Chain"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
+&nbsp;
+<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+</p>
 </td>
+
 <td width="50%" valign="top">
-  <a href="https://github.com/shivamj56/OmniMatrix1.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamj56&repo=OmniMatrix1.1&theme=tokyonight&bg_color=10131B&title_color=E9B3FF&icon_color=ADC6FF&text_color=C1C6D7&border_color=414755" alt="OmniMatrix1.1"/>
-  </a>
-  <p align="center">
-    <sub>Next-gen iteration of the OmniMatrix options-analytics suite — deployed to Vercel.</sub><br/>
-    <a href="https://omni-matrix1-1.vercel.app"><img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20DEMO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=10131B" alt="live"/></a>
-  </p>
+<a href="https://github.com/shivamj56/OmniMatrix1.1"><img src="https://socialify.git.ci/shivamj56/OmniMatrix1.1/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="OmniMatrix1.1"/></a>
+<p align="center"><sub>Next-gen iteration of the OmniMatrix options-analytics suite — deployed to Vercel.</sub></p>
+<p align="center">
+<a href="https://omni-matrix1-1.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-E9B3FF?style=for-the-badge&labelColor=E9B3FF&color=E9B3FF&logoColor=10131B" alt="live"/></a>
+&nbsp;
+<a href="https://github.com/shivamj56/OmniMatrix1.1"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+</p>
 </td>
+
 </tr>
 <tr>
-<td valign="top">
-  <a href="https://github.com/shivamj56/Myself">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamj56&repo=Myself&theme=tokyonight&bg_color=10131B&title_color=74D1FF&icon_color=ADC6FF&text_color=C1C6D7&border_color=414755" alt="Myself"/>
-  </a>
-  <p align="center">
-    <sub>Premium glassmorphism portfolio site — the HTML source that inspired this README.</sub>
-  </p>
+
+<td width="50%" valign="top">
+<a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
+<p align="center"><sub>Premium glassmorphism portfolio site — the HTML source that inspired this README.</sub></p>
+<p align="center">
+<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-74D1FF?style=for-the-badge&labelColor=74D1FF&color=74D1FF&logoColor=10131B" alt="live"/></a>
+&nbsp;
+<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+</p>
 </td>
-<td valign="top">
-  <a href="https://github.com/shivamj56/shivamj56">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamj56&repo=shivamj56&theme=tokyonight&bg_color=10131B&title_color=ADC6FF&icon_color=E9B3FF&text_color=C1C6D7&border_color=414755" alt="shivamj56"/>
-  </a>
-  <p align="center">
-    <sub>The repo you're reading — meta-architecture of the profile itself.</sub>
-  </p>
+
+<td width="50%" valign="top">
+<a href="https://github.com/shivamj56/shivamj56"><img src="https://socialify.git.ci/shivamj56/shivamj56/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="shivamj56"/></a>
+<p align="center"><sub>The repo you're reading — meta-architecture of the profile itself, auto-refreshing every 6 hours.</sub></p>
+<p align="center">
+<a href="https://github.com/shivamj56"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
+&nbsp;
+<a href="https://github.com/shivamj56/shivamj56"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+</p>
 </td>
+
 </tr>
 </table>
 <!-- REPOS:END -->
 
 <div align="center">
 <a href="https://github.com/shivamj56?tab=repositories">
-  <img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20ALL%20REPOSITORIES-10131B?style=for-the-badge&logo=github&logoColor=ADC6FF&labelColor=10131B" alt="all repos"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20ALL%20REPOSITORIES%20%20%E2%86%92-10131B?style=for-the-badge&logo=github&logoColor=ADC6FF&labelColor=10131B" alt="all repos"/>
 </a>
 </div>
 
@@ -307,13 +331,7 @@ $ ls ./featured/
 <summary><b>▸ How this list stays in sync</b></summary>
 <br/>
 
-The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-regenerated** every 6 hours (and on every push) by a GitHub Action:
-
-```
-.github/workflows/refresh-repos.yml
-```
-
-The action calls `GET /users/shivamj56/repos`, sorts by recently updated, rotates through the neon-palette title colors, and rewrites the block in place. New repos appear automatically — no manual edits needed. The YAML for the workflow ships next to this README.
+The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-regenerated every 6 hours** by a GitHub Action at `.github/workflows/refresh-repos.yml`. It hits `GET /users/shivamj56/repos`, sorts by recently updated, rotates the neon palette, and rewrites the block in place. New repos appear automatically — no manual edits needed.
 
 </details>
 
@@ -335,11 +353,14 @@ The action calls `GET /users/shivamj56/repos`, sorts by recently updated, rotate
 
 </div>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
 
 <br/>
 
 <!-- ─────────────────────── CERTIFICATIONS ───────────────────── -->
+<a name="certs"></a>
 
 ## 🏆&nbsp; CERTIFICATIONS
 
@@ -367,11 +388,14 @@ The action calls `GET /users/shivamj56/repos`, sorts by recently updated, rotate
 <img src="https://github-profile-trophy.vercel.app/?username=shivamj56&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
 </div>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,5,30&height=2" width="100%" alt=""/>
 
 <br/>
 
 <!-- ───────────────────────── CONTACT ────────────────────────── -->
+<a name="contact"></a>
 
 ## 📡&nbsp; ESTABLISH_CONNECTION
 
@@ -403,17 +427,19 @@ The action calls `GET /users/shivamj56/repos`, sorts by recently updated, rotate
 
 </div>
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
 <br/>
 
 <!-- ──────────────────────── SNAKE ANIMATION ─────────────────── -->
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamj56/shivamj56/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamj56/shivamj56/output/github-contribution-grid-snake.svg"/>
   <img alt="snake animation" src="https://raw.githubusercontent.com/shivamj56/shivamj56/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+</div>
 
 <br/>
 
