@@ -1,0 +1,13 @@
+{
+  "_comment": "Optional overrides for the auto-generated REPOSITORIES block. Drop this file at .github/repos.config.json inside your profile repo. Any repo listed here gets the override description; everything else falls back to the GitHub repo description. Add new entries as you ship new repos.",
+
+  "Omni-Matrix-Option-Chain": {
+    "description": "Real-time options-chain analytics platform built in TypeScript — live on Replit."
+  },
+  "Myself": {
+    "description": "Premium glassmorphism portfolio site — the HTML source that inspired this README."
+  },
+  "shivamj56": {
+    "description": "The repo you're reading — meta-architecture of the profile itself, auto-refreshing every 6 hours."
+  }
+}
