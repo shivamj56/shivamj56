@@ -397,16 +397,16 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
   <a href="https://github.com/shivamj56"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=ADC6FF"/></a>
 </td>
 <td align="center" width="140">
-  <a href="https://linkedin.com/in/shivamj56"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivam-jha-509482268/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </td>
 <td align="center" width="140">
-  <a href="https://twitter.com/shivamj56"><img src="https://img.shields.io/badge/-X%20%2F%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/heyshivm11"><img src="https://img.shields.io/badge/-X%20%2F%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </td>
 <td align="center" width="140">
   <a href="https://discord.com/users/shivamj56"><img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </td>
 <td align="center" width="140">
-  <a href="mailto:heylooshivm011@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:heyshivm2002@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </td>
 </tr>
 </table>
