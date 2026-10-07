@@ -307,16 +307,6 @@
 </p>
 </td>
 
-<td width="50%" valign="top">
-<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://socialify.git.ci/shivamj56/Omni-Matrix-Option-Chain/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Omni-Matrix-Option-Chain"/></a>
-<p align="center"><sub>Real-time options-chain analytics platform built in TypeScript — live on Replit.</sub></p>
-<p align="center">
-<a href="https://replit.com/@heylooshivm011/Neon-Option-Chain"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
-&nbsp;
-<a href="https://github.com/shivamj56/Omni-Matrix-Option-Chain"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
-</p>
-</td>
-
 </tr>
 </table>
 <!-- REPOS:END -->
