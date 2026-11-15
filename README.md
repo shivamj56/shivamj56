@@ -97,7 +97,7 @@
 <img src="https://img.shields.io/badge/OPTIONS%20%26%20FINTECH-ADC6FF?style=flat-square&labelColor=10131B" alt="fintech"/>
 </div>
 
-<p align="center">📺 <b>Latest launch:</b> <a href="https://orbit-os-tv.vercel.app/"><b>Orbit OS</b></a>, a free smart TV remote and setup app for Google TV and Android TV, now on <a href="https://play.google.com/store/apps/details?id=dev.shiv.orbit">Google Play</a></p>
+<p align="center">📺 <b>Latest launch:</b> <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a>, a free smart TV remote and setup app for Google TV and Android TV, now <b>open source (GPL-3.0)</b> and on <a href="https://play.google.com/store/apps/details?id=dev.shiv.orbit">Google Play</a> · <a href="https://github.com/shivamj56/orbit-os">⭐ star the code</a></p>
 
 <details>
 <summary><b>▸ Currently building</b></summary>
