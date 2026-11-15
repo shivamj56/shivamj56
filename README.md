@@ -11,10 +11,10 @@
 <!-- ─────────────────────────── HERO ─────────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1c2028,55:adc6ff,80:e9b3ff,100:74d1ff&height=300&section=header&text=SHIVAM%20JHA&fontColor=ffffff&fontSize=82&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20//%20OS&descSize=18&descAlignY=62&descColor=c1c6d7&animation=fadeIn" alt="Shivam Jha · Digital Architect"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1c2028,55:adc6ff,80:e9b3ff,100:74d1ff&height=300&section=header&text=SHIVAM%20JHA&fontColor=ffffff&fontSize=82&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20//%20OS&descSize=18&descAlignY=62&descColor=c1c6d7&animation=fadeIn" alt="Shivam Anil Jha · Digital Architect"/>
 
 <a href="https://github.com/shivamj56">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=2800&pause=900&color=ADC6FF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM.START_SESSION(SHIVAM_JHA);Building+AI+Powered+Digital+Experiences;Freelancer+%E2%80%A2+AI+Creator+%E2%80%A2+Full-Stack+Developer;Prompt+Engineer+%E2%80%A2+UI%2FUX+Designer" alt="Shivam Jha: AI-powered digital experiences, full-stack developer, prompt engineer, UI/UX designer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=2800&pause=900&color=ADC6FF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM.START_SESSION(SHIVAM_JHA);Building+AI+Powered+Digital+Experiences;Freelancer+%E2%80%A2+AI+Creator+%E2%80%A2+Full-Stack+Developer;Prompt+Engineer+%E2%80%A2+UI%2FUX+Designer" alt="Shivam Anil Jha: AI-powered digital experiences, full-stack developer, prompt engineer, UI/UX designer"/>
 </a>
 
 <br/><br/>
@@ -33,7 +33,7 @@
 <tr>
 <td valign="middle" width="200" align="center">
   <a href="https://github.com/shivamj56">
-    <img src="https://avatars.githubusercontent.com/u/95514609?v=4" width="160" alt="Shivam Jha avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/95514609?v=4" width="160" alt="Shivam Anil Jha avatar"/>
   </a>
   <br/>
   <sub><b>@shivamj56</b></sub>
@@ -70,7 +70,7 @@
 
 ## ◢&nbsp; SYSTEM
 
-> I'm **Shivam Jha** (Shivam Anil Jha), a self-taught freelancer and AI-native creator from India, navigating the intersection of **code**, **design**, and **artificial intelligence**.  
+> I'm **Shivam Anil Jha** (Shivam Jha), a self-taught freelancer and AI-native creator from India, navigating the intersection of **code**, **design**, and **artificial intelligence**.  
 > My architecture relies on building systems that don't just function — they **feel alive**.
 
 <table align="center">
@@ -431,7 +431,7 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
   <a href="https://discord.com/users/shivamj56"><img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </td>
 <td align="center" width="140">
-  <a href="https://shivamj56.github.io/Myself/"><img src="https://img.shields.io/badge/-PORTFOLIO-ADC6FF?style=for-the-badge&logo=googlechrome&logoColor=10131B" alt="Shivam Jha portfolio"/></a>
+  <a href="https://shivamj56.github.io/Myself/"><img src="https://img.shields.io/badge/-PORTFOLIO-ADC6FF?style=for-the-badge&logo=googlechrome&logoColor=10131B" alt="Shivam Anil Jha portfolio"/></a>
 </td>
 <td align="center" width="140">
   <a href="mailto:heyshivm2002@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -467,5 +467,5 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
 
 <div align="center">
 <sub><b>Built with creativity, AI, and futuristic imagination.</b></sub><br/>
-<sub>© 2026 <a href="https://shivamj56.github.io/Myself/">Shivam Jha</a> (<a href="https://github.com/shivamj56">@shivamj56</a>) &nbsp;·&nbsp; DIGITAL_ARCHITECT &nbsp;·&nbsp; <a href="#top">↑ back to top</a></sub>
+<sub>© 2026 <a href="https://shivamj56.github.io/Myself/">Shivam Anil Jha</a> (<a href="https://github.com/shivamj56">@shivamj56</a>) &nbsp;·&nbsp; DIGITAL_ARCHITECT &nbsp;·&nbsp; <a href="#top">↑ back to top</a></sub>
 </div>
