@@ -11,13 +11,16 @@
 <!-- ─────────────────────────── HERO ─────────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1c2028,55:adc6ff,80:e9b3ff,100:74d1ff&height=300&section=header&text=SHIVAM%20JHA&fontColor=ffffff&fontSize=82&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20//%20OS&descSize=18&descAlignY=62&descColor=c1c6d7&animation=fadeIn" alt="Shivam Anil Jha · Digital Architect"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1c2028,55:adc6ff,80:e9b3ff,100:74d1ff&height=300&section=header&text=SHIVAM%20ANIL%20JHA&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20//%20OS&descSize=18&descAlignY=62&descColor=c1c6d7&animation=fadeIn" alt="Shivam Anil Jha · Digital Architect"/>
 
 <a href="https://github.com/shivamj56">
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=2800&pause=900&color=ADC6FF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM.START_SESSION(SHIVAM_JHA);Building+AI+Powered+Digital+Experiences;Freelancer+%E2%80%A2+AI+Creator+%E2%80%A2+Full-Stack+Developer;Prompt+Engineer+%E2%80%A2+UI%2FUX+Designer" alt="Shivam Anil Jha: AI-powered digital experiences, full-stack developer, prompt engineer, UI/UX designer"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<p align="center"><b>Shivam Anil Jha</b> · AI architect &amp; full-stack developer · Mumbai, India<br/>
+Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building <a href="https://nexera-ai-xi.vercel.app/">NexeraAI</a>, <a href="https://clonix-tau.vercel.app/">Clonix</a> and <a href="https://github.com/shivamj56/orbit-os">Orbit OS</a> · <a href="https://shivamj56.github.io/Myself/">portfolio</a></p>
 
 <!-- ── TOP NAV (clickable anchor tabs) ── -->
 <a href="#system"><img src="https://img.shields.io/badge/-%5B%20SYSTEM%20%5D-ADC6FF?style=for-the-badge&labelColor=10131B" alt="SYSTEM"/></a>
