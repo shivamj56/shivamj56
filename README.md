@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center"><b>Shivam Anil Jha</b> · AI architect &amp; full-stack developer · Mumbai, India<br/>
-Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building <a href="https://nexera-ai-xi.vercel.app/">NexeraAI</a>, <a href="https://clonix-tau.vercel.app/">Clonix</a> and <a href="https://github.com/shivamj56/orbit-os">Orbit OS</a> · <a href="https://shivamj56.github.io/Myself/">portfolio</a></p>
+Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building <a href="https://nexera-ai-xi.vercel.app/">NexeraAI</a>, <a href="https://clonix-tau.vercel.app/">Clonix</a> and <a href="https://github.com/shivamj56/orbit-os">Orbit OS</a> · <a href="https://shivamjha.dev/">portfolio</a></p>
 
 <!-- ── TOP NAV (clickable anchor tabs) ── -->
 <a href="#system"><img src="https://img.shields.io/badge/-%5B%20SYSTEM%20%5D-ADC6FF?style=for-the-badge&labelColor=10131B" alt="SYSTEM"/></a>
@@ -100,7 +100,7 @@ Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building 
 <img src="https://img.shields.io/badge/OPTIONS%20%26%20FINTECH-ADC6FF?style=flat-square&labelColor=10131B" alt="fintech"/>
 </div>
 
-<p align="center">🚀 <b>My products:</b> <a href="https://nexera-ai-xi.vercel.app/"><b>NexeraAI</b></a> (AI career platform) · <a href="https://clonix-tau.vercel.app/"><b>Clonix</b></a> (website design intelligence for AI code editors) · <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a> (open-source smart TV app) · <a href="https://shivamj56.github.io/Myself/#work">all my work</a></p>
+<p align="center">🚀 <b>My products:</b> <a href="https://nexera-ai-xi.vercel.app/"><b>NexeraAI</b></a> (AI career platform) · <a href="https://clonix-tau.vercel.app/"><b>Clonix</b></a> (website design intelligence for AI code editors) · <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a> (open-source smart TV app) · <a href="https://shivamjha.dev/#work">all my work</a></p>
 
 <p align="center">📺 <b>Latest launch:</b> <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a>, a free smart TV remote and setup app for Google TV and Android TV, now <b>open source (GPL-3.0)</b> and on <a href="https://play.google.com/store/apps/details?id=dev.shiv.orbit">Google Play</a> · <a href="https://github.com/shivamj56/orbit-os">⭐ star the code</a></p>
 
@@ -310,7 +310,7 @@ Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building 
 <a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
 <p align="center"><sub>Shivam Jha's portfolio, live on GitHub Pages: the premium glassmorphism site that inspired this README.</sub></p>
 <p align="center">
-<a href="https://shivamj56.github.io/Myself/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-74D1FF?style=for-the-badge&labelColor=74D1FF&color=74D1FF&logoColor=10131B" alt="live"/></a>
+<a href="https://shivamjha.dev/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-74D1FF?style=for-the-badge&labelColor=74D1FF&color=74D1FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
 <a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
@@ -438,7 +438,7 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
   <a href="https://discord.com/users/shivamj56"><img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </td>
 <td align="center" width="140">
-  <a href="https://shivamj56.github.io/Myself/"><img src="https://img.shields.io/badge/-PORTFOLIO-ADC6FF?style=for-the-badge&logo=googlechrome&logoColor=10131B" alt="Shivam Anil Jha portfolio"/></a>
+  <a href="https://shivamjha.dev/"><img src="https://img.shields.io/badge/-PORTFOLIO-ADC6FF?style=for-the-badge&logo=googlechrome&logoColor=10131B" alt="Shivam Anil Jha portfolio"/></a>
 </td>
 <td align="center" width="140">
   <a href="mailto:heyshivm2002@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -474,5 +474,5 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
 
 <div align="center">
 <sub><b>Built with creativity, AI, and futuristic imagination.</b></sub><br/>
-<sub>© 2026 <a href="https://shivamj56.github.io/Myself/">Shivam Anil Jha</a> (<a href="https://github.com/shivamj56">@shivamj56</a>) &nbsp;·&nbsp; DIGITAL_ARCHITECT &nbsp;·&nbsp; <a href="#top">↑ back to top</a></sub>
+<sub>© 2026 <a href="https://shivamjha.dev/">Shivam Anil Jha</a> (<a href="https://github.com/shivamj56">@shivamj56</a>) &nbsp;·&nbsp; DIGITAL_ARCHITECT &nbsp;·&nbsp; <a href="#top">↑ back to top</a></sub>
 </div>
