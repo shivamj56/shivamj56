@@ -70,7 +70,7 @@
 
 ## ◢&nbsp; SYSTEM
 
-> I'm **Shivam Anil Jha** (Shivam Jha), a self-taught freelancer and AI-native creator from India, navigating the intersection of **code**, **design**, and **artificial intelligence**.  
+> I'm **Shivam Anil Jha** (Shivam Jha), a self-taught freelancer and AI-native creator from Mumbai, India, navigating the intersection of **code**, **design**, and **artificial intelligence**.  
 > My architecture relies on building systems that don't just function — they **feel alive**.
 
 <table align="center">
@@ -97,12 +97,16 @@
 <img src="https://img.shields.io/badge/OPTIONS%20%26%20FINTECH-ADC6FF?style=flat-square&labelColor=10131B" alt="fintech"/>
 </div>
 
+<p align="center">🚀 <b>My products:</b> <a href="https://nexera-ai-xi.vercel.app/"><b>NexeraAI</b></a> (AI career platform) · <a href="https://clonix-tau.vercel.app/"><b>Clonix</b></a> (website design intelligence for AI code editors) · <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a> (open-source smart TV app) · <a href="https://shivamj56.github.io/Myself/#work">all my work</a></p>
+
 <p align="center">📺 <b>Latest launch:</b> <a href="https://github.com/shivamj56/orbit-os"><b>Orbit OS</b></a>, a free smart TV remote and setup app for Google TV and Android TV, now <b>open source (GPL-3.0)</b> and on <a href="https://play.google.com/store/apps/details?id=dev.shiv.orbit">Google Play</a> · <a href="https://github.com/shivamj56/orbit-os">⭐ star the code</a></p>
 
 <details>
 <summary><b>▸ Currently building</b></summary>
 <br/>
 
+- 💼 **NexeraAI** — an AI career platform: résumé analysis, referrals, tech jobs and learning roadmaps.
+- 🧬 **Clonix** — turns any website into design tokens, components and AI-editor packs (co-founded with Saksham Srivastava, who runs the backend).
 - ⚡ **OmniMatrix** — TypeScript real-time options-chain analytics, iterating from v1 (Replit) → v1.1 (Vercel) → full SaaS.
 - 🤖 **AI agent tooling** — Claude / GPT multi-agent workflows for trading, content, and dev productivity.
 - 🎨 **This profile system** — premium glassmorphism, fluid motion, dark-by-default UX.
