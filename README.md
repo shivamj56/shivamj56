@@ -381,6 +381,55 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
 
 <br/>
 
+<!-- ──────────────────────── EXPERIENCE ──────────────────────── -->
+<a name="experience"></a>
+
+## 💼&nbsp; EXPERIENCE
+
+<table align="center">
+<tr>
+  <td width="33%" valign="top" align="center">
+    <img src="https://img.shields.io/badge/FEB--JUN_2026-74D1FF?style=for-the-badge&labelColor=10131B" alt="February to June 2026"/>
+    <h3>Automation Associate</h3>
+    <sub>Fareportal · turned repetitive manual operations work into automated workflows.</sub>
+  </td>
+  <td width="33%" valign="top" align="center">
+    <img src="https://img.shields.io/badge/2024--2025-E9B3FF?style=for-the-badge&labelColor=10131B" alt="March 2024 to November 2025"/>
+    <h3>Cloud Operations Associate</h3>
+    <sub>WNS Global Services · cloud systems for international travel clients, AI-assisted workflows, mentoring new batches.</sub>
+  </td>
+  <td width="33%" valign="top" align="center">
+    <img src="https://img.shields.io/badge/2023--2024-ADC6FF?style=for-the-badge&labelColor=10131B" alt="November 2023 to February 2024"/>
+    <h3>Junior Frontend Developer</h3>
+    <sub>Allianz Partners · front-end components and responsive UI for internal tools.</sub>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ──────────────────────── EDUCATION ───────────────────────── -->
+<a name="education"></a>
+
+## 🎓&nbsp; EDUCATION
+
+<table align="center">
+<tr>
+  <td width="50%" valign="top" align="center">
+    <img src="https://img.shields.io/badge/2020--2023-ADC6FF?style=for-the-badge&labelColor=10131B" alt="2020 to 2023"/>
+    <h3>Bachelor of Computer Applications (BCA)</h3>
+    <sub>Ajeenkya DY Patil University</sub>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <img src="https://img.shields.io/badge/2018--2020-E9B3FF?style=for-the-badge&labelColor=10131B" alt="2018 to 2020"/>
+    <h3>Higher Secondary Certificate (HSC)</h3>
+    <sub>Thakur College of Science &amp; Commerce, Mumbai</sub>
+  </td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ─────────────────────── CERTIFICATIONS ───────────────────── -->
 <a name="certs"></a>
 
@@ -389,19 +438,19 @@ The block between `<!-- REPOS:START -->` and `<!-- REPOS:END -->` is **auto-rege
 <table align="center">
 <tr>
   <td width="33%" valign="top" align="center">
-    <img src="https://img.shields.io/badge/2023-ADC6FF?style=for-the-badge&labelColor=10131B"/>
+    <img src="https://img.shields.io/badge/APR_2021-ADC6FF?style=for-the-badge&labelColor=10131B" alt="April 2021"/>
     <h3>Data Structures in C</h3>
-    <sub>Core data structures, memory management, and algorithm optimisation in C.</sub>
+    <sub>Great Learning · core data structures, memory management, and algorithm optimisation in C.</sub>
   </td>
   <td width="33%" valign="top" align="center">
-    <img src="https://img.shields.io/badge/2024-E9B3FF?style=for-the-badge&labelColor=10131B"/>
+    <img src="https://img.shields.io/badge/APR_2021-E9B3FF?style=for-the-badge&labelColor=10131B" alt="April 2021"/>
     <h3>DSA in Java</h3>
-    <sub>Advanced algorithms, OOP design patterns, and complex problem solving in Java.</sub>
+    <sub>Great Learning · advanced algorithms, OOP design patterns, and complex problem solving in Java.</sub>
   </td>
   <td width="33%" valign="top" align="center">
-    <img src="https://img.shields.io/badge/2024-74D1FF?style=for-the-badge&labelColor=10131B"/>
+    <img src="https://img.shields.io/badge/APR_2021-74D1FF?style=for-the-badge&labelColor=10131B" alt="April 2021"/>
     <h3>Oracle Cloud Infrastructure</h3>
-    <sub>OCI architecture foundations, deployment strategies, and enterprise cloud solutions.</sub>
+    <sub>Oracle · OCI architecture foundations, deployment strategies, and enterprise cloud solutions.</sub>
   </td>
 </tr>
 </table>
