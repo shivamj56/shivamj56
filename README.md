@@ -284,22 +284,22 @@ Co-founder of <a href="https://sqaron.dev/">Sqaron Technologies</a> · building 
 <tr>
 
 <td width="50%" valign="top">
-<a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
-<p align="center"><sub>Shivam Jha's portfolio, live on GitHub Pages: the premium glassmorphism site that inspired this README.</sub></p>
+<a href="https://github.com/shivamj56/orbit-os"><img src="https://socialify.git.ci/shivamj56/orbit-os/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="orbit-os"/></a>
+<p align="center"><sub>Open-source Google TV / Android TV setup from your phone: a calmer home screen, free Live TV, one-tap undo, and a phone remote that works from anywhere. Flutter, Dart ADB, Java.</sub></p>
 <p align="center">
-<a href="https://shivamjha.dev/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
+<a href="https://orbit-os-tv.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-ADC6FF?style=for-the-badge&labelColor=ADC6FF&color=ADC6FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
-<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+<a href="https://github.com/shivamj56/orbit-os"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
 </td>
 
 <td width="50%" valign="top">
-<a href="https://github.com/shivamj56/orbit-os"><img src="https://socialify.git.ci/shivamj56/orbit-os/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="orbit-os"/></a>
-<p align="center"><sub>Open-source Google TV / Android TV setup from your phone: a calmer home screen, free Live TV, one-tap undo, and a phone remote that works from anywhere. Flutter, Dart ADB, Java.</sub></p>
+<a href="https://github.com/shivamj56/Myself"><img src="https://socialify.git.ci/shivamj56/Myself/image?description=0&language=1&name=1&owner=1&stargazers=1&forks=1&theme=Dark&pattern=Plus&font=Source%20Code%20Pro" width="100%" alt="Myself"/></a>
+<p align="center"><sub>Shivam Jha's portfolio, live on GitHub Pages: the premium glassmorphism site that inspired this README.</sub></p>
 <p align="center">
-<a href="https://orbit-os-tv.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-E9B3FF?style=for-the-badge&labelColor=E9B3FF&color=E9B3FF&logoColor=10131B" alt="live"/></a>
+<a href="https://shivamjha.dev/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20DEMO-E9B3FF?style=for-the-badge&labelColor=E9B3FF&color=E9B3FF&logoColor=10131B" alt="live"/></a>
 &nbsp;
-<a href="https://github.com/shivamj56/orbit-os"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
+<a href="https://github.com/shivamj56/Myself"><img src="https://img.shields.io/badge/%E2%9F%A8%2F%E2%9F%A9%20%20VIEW%20CODE-10131B?style=for-the-badge&labelColor=10131B&color=414755" alt="code"/></a>
 </p>
 </td>
 
